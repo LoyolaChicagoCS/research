@@ -34,7 +34,7 @@ Projects are the bread and butter of the CS experience. Beyond the learning expe
 
 ------------------------------------------------------------
 
-1. `COMP 398/490: Independent Study <http://courses.cs.luc.edu/html/comp398.html>`__
+1. `COMP 398/490: Independent Study <http://courses.cs.luc.edu/courses/comp398.html>`__
 
 If you want to pursue a project outside the scope of a class, this is the most general route to receiving credit toward graduation. It's also the simplest way to receive significant advising, as many projects are collaborations with faculty who also maintain related resources.
 
@@ -44,12 +44,12 @@ To pursue an independent study project, first consider if you have the required 
 
 Note that pursuing an independent study course is not intended to be a substitute for performing well in traditional courses. Faculty may wish to look at your record before agreeing to supervise an independent study project, and students should anticipate that faculty may insist students have at least a 3.0 GPA.
 
-2. `COMP 397: Research Methods in Computer Science (1 credit hour) <http://courses.cs.luc.edu/html/comp397.html>`__
+2. `COMP 397: Research Methods in Computer Science (1 credit hour) <http://courses.cs.luc.edu/courses/comp397.html>`__
 
 
 The spring research seminar supplements the CS Seminar by specifically aiming at students who will directly engage in research and to facilitate their contributions in their ongoing projects. This course is designed to emphasize the tools and techniques in research collaboration, analysis, and presentation to help project groups outside the course to focus on content. Progress is encouraged and tracked in projects outside the course through milestones such as abstracts, small fellowship-style proposals, informal updates, and outcome-oriented goal setting where appropriate.
 
-3. `COMP 399: CS Seminar (1 credit hour) <http://courses.cs.luc.edu/html/comp399.html>`__
+3. `COMP 399: CS Seminar (1 credit hour) <http://courses.cs.luc.edu/courses/comp399.html>`__
 
 The CS seminar is an opportunity to engage with other students as well as the various speakers and events supported by the CS department. Past seminars have include internal faculty speakers and external speakers focusing on such topics as Big Data analytics, spatial statistics, STEM outreach, game design, and digital music. The seminar also supports local competitions such as a recent Loyola hackathon competition in the Fall and a Datafest analytics competition in the Spring. Requirements include reasonable attendance expectations and brief write-ups about your experiences.
 
@@ -57,15 +57,15 @@ The CS seminar is an opportunity to engage with other students as well as the va
 
 These are courses specifically with a project-oriented or applied learning focus, satisfying the Engaged Learning Core requirement for undergrads at Loyola. These engaged learning courses can be used towards the "Practicum" requirement applicable to most computing majors.
 
-* `COMP 398/490: Independent Study <http://courses.cs.luc.edu/html/comp398.html>`__. See further information at the link here and as described above.
+* `COMP 398/490: Independent Study <http://courses.cs.luc.edu/courses/comp398.html>`__. See further information at the link here and as described above.
 
-* `COMP 312/412: Open Source Computing <http://courses.cs.luc.edu/html/comp312.html>`__. See further information at the link here. Usually runs Fall, Spring, and Summer.
+* `COMP 312/412: Open Source Computing <http://courses.cs.luc.edu/courses/comp312.html>`__. See further information at the link here. Usually runs Fall, Spring, and Summer.
 
-* `COMP 390: Broadening participation in STEM (Computing, Math & Science) <http://courses.cs.luc.edu/html/comp390.html>`__ . See further information at the link here. Usually runs in Fall, and students generally have an opportunity to find a placement after the start of the term.
+* `COMP 390: Broadening participation in STEM (Computing, Math & Science) <http://courses.cs.luc.edu/courses/comp390.html>`__ . See further information at the link here. Usually runs in Fall, and students generally have an opportunity to find a placement after the start of the term.
 
-* `COMP 391/499: Internship <http://courses.cs.luc.edu/html/comp391.html>`__. See further information at the link here. Available year round, but you must find a placement and register by the usual deadline for the term.
+* `COMP 391/499: Internship <http://courses.cs.luc.edu/courses/comp391.html>`__. See further information at the link here. Available year round, but you must find a placement and register by the usual deadline for the term.
 
-* `COMP 392: Metagenomics <http://courses.cs.luc.edu/html/comp392.html>`__. See further information at the link here. Of particular interest to Bioinformatics students. Usually runs in Fall.
+* `COMP 392: Metagenomics <http://courses.cs.luc.edu/courses/comp392.html>`__. See further information at the link here. Of particular interest to Bioinformatics students. Usually runs in Fall.
 
 5. UNIV 102-X: Intro to CS research for freshmen - FYRE program (Spring)
 

@@ -10,7 +10,7 @@ party.
 COMP 398/490: Independent Study
 ---------------------------------
 
-See `COMP 398/490: <http://courses.cs.luc.edu/html/comp398.html>`__ in the
+See `COMP 398/490: <http://academics.cs.luc.edu/courses/comp398.html>`__ in the
 Course Handbook for details.
 
 If you want to pursue a project outside the scope of a class, this is
@@ -65,7 +65,7 @@ appropriate.
 COMP 390: Computer Science Seminar
 --------------------------------------
 
-See `COMP 399: <http://courses.cs.luc.edu/html/comp399.html>`__ for
+See `COMP 399: <http://academics.cs.luc.edu/courses/comp399.html>`__ for
 details.
 
 The CS seminar is an opportunity to engage with other students as well
@@ -90,13 +90,13 @@ The following courses (with their course handbook links) are all
 Engaged Learning courses that encourage capstone projects as an
 outcome:
 
-- `*COMP 398/490: Independent Study* <http://courses.cs.luc.edu/html/comp398.html>`__ Independent Study. This is standard for these courses.
+- `*COMP 398/490: Independent Study* <http://academics.cs.luc.edu/courses/comp398.html>`__ Independent Study. This is standard for these courses.
 
-- `*COMP 312/412: Open Souce Practicum* <http://courses.cs.luc.edu/html/comp312.html>`__ Open Source Software - available Fall and Spring.
+- `*COMP 312/412: Open Souce Practicum* <http://academics.cs.luc.edu/courses/comp312.html>`__ Open Source Software - available Fall and Spring.
 
-- `*COMP 390: Brodeaning Participation in STEM* <http://courses.cs.luc.edu/html/comp390.html>`__ Broadening participation in STEM - available in the Fall.
+- `*COMP 390: Brodeaning Participation in STEM* <http://academics.cs.luc.edu/courses/comp390.html>`__ Broadening participation in STEM - available in the Fall.
 
-- `*COMP 391/499* <http://courses.cs.luc.edu/html/comp391.html>`__: Internship - available year round
+- `*COMP 391/499* <http://academics.cs.luc.edu/courses/comp391.html>`__: Internship - available year round
 
 - UNIV 102-X: Intro to CS research for freshmen - FYRE program (Spring)
 
