@@ -3,13 +3,13 @@ Research Groups
 
 Active research groups
 
--  `*Putonti Lab* <http://www.putonti-lab.com/>`__
+-  `Putonti Lab <http://www.putonti-lab.com/>`_
 
--  `*Emerging Technologies Laboratory (ETL)* <http://home.etl.luc.edu/>`__\ ` <http://home.etl.luc.edu/>`__
+-  `Emerging Technologies Laboratory (ETL) <http://home.etl.luc.edu/>`_
 
--  `*Pervasive and Ambient Computing (PAC) Lab* <http://pac-lab.org>`__
+-  `Pervasive and Ambient Computing (PAC) Lab <http://pac-lab.org>`_
 
--  `*Center for Textual Studies and Digital Humanities* - <http://luc.edu/ctsdh>`__
+-  `ZettelGeist/G Labs <https://zettelgeist.com>`_
 
-Please visit the `*faculty research interests* <http://research.cs.luc.edu/html/facultyresearch.html>`__ page
-for individual faculty
+
+Please visit the `faculty research interests <http://research.cs.luc.edu/html/facultyresearch.html>`__ page for individual faculty research efforts.
