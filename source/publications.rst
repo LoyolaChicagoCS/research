@@ -5,7 +5,7 @@ Publications
 Digital Archives
 ----------------------
 
-- `Loyola University Chicago Digital Commons <http://ecommons.luc.edu/cs_facpubs/>`_.
+- See `Computer Science Collection at Loyola University eCommons <http://ecommons.luc.edu/cs_facpubs/>`_ for open access works by our department faculty, students, and staff.
 
 Faculty Collections
 --------------------
