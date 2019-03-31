@@ -20,8 +20,6 @@ research we do in the department.
    foss
    funding
    assistantships
-   downloading
    acknowledgments
-   map
 
 :ref:`genindex`

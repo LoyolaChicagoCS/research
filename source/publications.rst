@@ -5,52 +5,55 @@ Publications
 Digital Archives
 ----------------------
 
-Most recent faculty publications can be retrieved from the
-`Loyola University Chicago eCommons <http://ecommons.luc.edu/cs_facpubs/>`__.
+- `Loyola University Chicago Digital Commons <http://ecommons.luc.edu/cs_facpubs/>`_.
 
 Faculty Collections
 --------------------
 
+.. list-table:: Faculty Publications
+   :widths: 15 30
+   :header-rows: 1
 
-Mark Albert
-- `Google Scholar, <https://scholar.google.com/citations?user=LPzMx1IAAAAJ&hl=en&oi=ao>`__
-- `Lab <http://pac-lab.org/publications/>`__
+   * - Faculty Member 
+     - Profile(s)
 
-Peter Dordal
-- TBD
+   * - Mark Albert
+     - `Google Scholar <https://scholar.google.com/citations?user=LPzMx1IAAAAJ&hl=en&oi=ao>`_ and `PAC Lab <http://pac-lab.org/publications/>`_
 
-Stephen Doty
-- `Google Scholar <https://scholar.google.com/citations?user=t-PZ_dEAAAAJ&hl=en>`__
+   * - Peter Dordal
+     -
 
-Ronald Greenberg
-- `Google Scholar <https://scholar.google.com/citations?user=8KbOOO4AAAAJ&hl=en>`__
+   * - Stephen Doty
+     - `Stephen Doty's Google Scholar Profile <https://scholar.google.com/citations?user=t-PZ_dEAAAAJ&hl=en>`_
 
-Andrew Harrington
-- `Google Scholar <https://scholar.google.com/citations?user=GPnrCzYAAAAJ&hl=en>`__
+   * - Ronald Greenberg
+     - `Ronald Greenberg's Google Scholar Profile <https://scholar.google.com/citations?user=8KbOOO4AAAAJ&hl=en>`_
 
-Nicholas Hayward
-- TBD
+   * - Andrew Harrington
+     - `Andrew Harrington's Google Scholar Profile <https://scholar.google.com/citations?user=GPnrCzYAAAAJ&hl=en>`_
 
-William Honig
-- `Google Scholar <https://scholar.google.com/citations?user=QIIX4SoAAAAJ>`__
+   * - Nicholas Hayward
+     -
 
-Konstantin Laufer
-- `Google Scholar <https://scholar.google.com/citations?user=Rs0f_nMAAAAJ>`__
+   * - William Honig
+     - `William Honig's Google Scholar Profile <https://scholar.google.com/citations?user=QIIX4SoAAAAJ>`__
 
-Channah Naiman
+   * - Konstantin Läufer
+     - `Konstantin Läufer's Google Scholar Profile <https://scholar.google.com/citations?user=Rs0f_nMAAAAJ>`__
 
-Catherine Putonti
-- `Google Scholar <https://scholar.google.com/citations?user=NkJJfysAAAAJ&hl=en>`__
-- `PubMed <http://www.ncbi.nlm.nih.gov/pubmed?term=Putonti%20%5BAuthor%5D>`__
-- `Lab <http://www.putonti-lab.com/pubs>`__
+   * - Channah Naiman
+     -
 
-Chandra Sekaran
-- `Google Scholar <https://scholar.google.com/citations?user=nx6rSEwAAAAJ&hl=en>`__
+   * - Catherine Putonti
+     - `Catheine Putonti's Google Scholar <https://scholar.google.com/citations?user=NkJJfysAAAAJ&hl=en>`_, `PubMed <http://www.ncbi.nlm.nih.gov/pubmed?term=Putonti%20%5BAuthor%5D>`_, and `Putonti Lab <http://www.putonti-lab.com/pubs>`_
 
-George K. Thiruvathukal
-- `Google Scholar <https://scholar.google.com/citations?user=Ls7yS0IAAAAJ>`__
+   * - Chandra Sekaran
+     - `Chandra Sekharan's Google Scholar Profile <https://scholar.google.com/citations?user=nx6rSEwAAAAJ&hl=en>`_
 
-Robert Yacobellis
-- `Google Scholar  <https://scholar.google.com/citations?user=5oL6e14AAAAJ&hl=en>`__
+   * - George K. Thiruvathukal
+     - `George K. Thiruvathukal's Google Scholar Profile <https://scholar.google.com/citations?user=Ls7yS0IAAAAJ>`_
+
+   * - Robert Yacobellis
+     - `Robert Yacobellis' Google Scholar Profile  <https://scholar.google.com/citations?user=5oL6e14AAAAJ&hl=en>`_
 
 

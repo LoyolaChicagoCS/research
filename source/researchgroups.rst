@@ -12,4 +12,4 @@ Active research groups
 -  `ZettelGeist/G Labs <https://zettelgeist.com>`_
 
 
-Please visit the `faculty research interests <http://research.cs.luc.edu/html/facultyresearch.html>`__ page for individual faculty research efforts.
+Please visit the :doc:`facultyresearch` page for individual faculty research interests.
