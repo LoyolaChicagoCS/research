@@ -2,10 +2,6 @@
 Funding
 =======
 
-Research Grants
-
-.. todo:: put this in a proper CSV table
-
 -  Ronald I. Greenberg, George K. Thiruvathukal, *Collaborative Research: Chicago Alliance For Equity in Computer Science (CAFECS)*, National Science Foundation CNS-1738691, $72,497 Loyola portion within a $2,011,529 collaboration, October 2017 -- September 2021.
 
 -  Catherine Putonti, *Collaborative Research: Deciphering the Genetic Diversity of Viruses through Gene Networks*, National Science Foundation, $676,340, May 2017 -- April 2020.
