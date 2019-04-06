@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Loyola Computer Science Research Handbook'
+project = 'Loyola University Chicago CS - Research'
 copyright = '2019, George K. Thiruvathukal'
 author = 'George K. Thiruvathukal'
 
@@ -109,7 +109,7 @@ html_context = {
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'LoyolaComputerScienceResearchHandbookdoc'
+htmlhelp_basename = 'LoyolaComputerScienceResearchdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -136,7 +136,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'LoyolaComputerScienceResearchHandbook.tex', 'Loyola Computer Science Research Handbook Documentation',
+    (master_doc, 'LoyolaComputerScienceResearch.tex', 'Loyola University Chiago CS - Research',
      'George K. Thiruvathukal', 'manual'),
 ]
 
@@ -146,7 +146,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'loyolacomputerscienceresearchhandbook', 'Loyola Computer Science Research Handbook Documentation',
+    (master_doc, 'loyolacomputerscienceresearchhandbook', 'Loyola Univeersity Chicago CS - Research',
      [author], 1)
 ]
 
@@ -157,8 +157,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'LoyolaComputerScienceResearchHandbook', 'Loyola Computer Science Research Handbook Documentation',
-     author, 'LoyolaComputerScienceResearchHandbook', 'One line description of project.',
+    (master_doc, 'LoyolaComputerScienceResearch', 'Loyola University Chicago CS - Research',
+     author, 'LoyolaComputerScienceResearch', 'One line description of project.',
      'Miscellaneous'),
 ]
 

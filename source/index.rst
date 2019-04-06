@@ -1,10 +1,7 @@
-.. Loyola University Chicago Computer Science - Graduate Student Handbook
+Loyola Computer Chicago Computer Science Research 
+======================================================================
 
-Loyola Computer Science Research Handbook
-=============================================
-
-This is the *alpha* version of the research handbook for Loyola University Chicago's 
-department of computer science. This resource is intended for faculty, students, 
+This resource is intended for faculty, students, 
 administrators, alumni, companies, and donors to find out more about the exciting
 research we do in the department.
 
