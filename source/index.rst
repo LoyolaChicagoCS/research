@@ -1,8 +1,7 @@
-Loyola Computer Chicago Computer Science Research 
-======================================================================
+Loyola University Chicago Computer Science Research Guide
+==========================================================
 
-This resource is intended for faculty, students, 
-administrators, alumni, companies, and donors to find out more about the exciting
+This resource is intended for faculty, students, administrators, alumni, companies, and donors to find out more about the exciting
 research we do in the department.
 
 .. toctree::
