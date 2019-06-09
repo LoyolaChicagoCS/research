@@ -18,4 +18,12 @@ research we do in the department.
    assistantships
    acknowledgments
 
-:ref:`genindex`
+To Report Issues
+-------------------
+
+* https://github.com/LoyolaChicagoCS/WebIssues/issues
+ 
+Topics
+--------
+
+* :ref:`genindex`
