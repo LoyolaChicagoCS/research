@@ -14,6 +14,8 @@
 #
 import os
 import sys
+from datetime import date
+
 # sys.path.insert(0, os.path.abspath('.'))
 
 
@@ -24,7 +26,7 @@ copyright = '2019, George K. Thiruvathukal'
 author = 'George K. Thiruvathukal'
 
 # The short X.Y version
-version = os.environ.get("BOOK_VERSION", "beta")
+version = date.today().strftime("%d %b %Y")
 # The full version, including alpha/beta/rc tags
 release = version
 
@@ -78,6 +80,26 @@ pygments_style = None
 #
 html_theme = 'sphinx_rtd_theme'
 
+html_theme_options = {
+    #'canonical_url': '',
+    #"analytics_id": "UA-5482792-28",
+    #'logo_only': False,
+    #'display_version': True,
+    #'prev_next_buttons_location': 'bottom',
+    "style_external_links": True,
+    "vcs_pageview_mode": "edit",
+    'style_nav_header_background': '#922247',
+    # Toc options
+    #'collapse_navigation': True,
+    #'sticky_navigation': True,
+    #'navigation_depth': 4,
+    #'includehidden': True,
+    "titles_only": True,
+}
+
+
+# Theme options are theme-specific and customize the look and feel of a theme
+# further.  For a list of options available for each theme, see the
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
