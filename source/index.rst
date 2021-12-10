@@ -12,7 +12,6 @@ research we do in the department.
    facultyresearch
    representativeprojects
    researchgroups
-   publications
    foss
    funding
    assistantships
