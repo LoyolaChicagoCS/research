@@ -1,6 +1,10 @@
 Representative Projects
 =======================
 
+.. note:: This page will be replaced with CSRS (CS Research Symposium) soon. All content from previous years will be migrated with stable DOIs. Please stay tuned.
+
+Deprecated
+-----------
 Every semester, we gather students after the end of semester party to
 present projects they have done in courses, as part of independent study
 courses, or jointly a research projects. To see an array of projects
