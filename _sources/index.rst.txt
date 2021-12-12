@@ -9,6 +9,7 @@ This resource is intended for faculty, students, administrators, alumni, compani
    motivation
    opportunities
    facultyresearch
+   csrs
    representativeprojects
    researchgroups
    foss
