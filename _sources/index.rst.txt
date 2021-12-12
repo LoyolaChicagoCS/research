@@ -1,11 +1,10 @@
 Research Guide
 ===============
 
-This resource is intended for faculty, students, administrators, alumni, companies, and donors to find out more about the exciting
-research we do in the department.
+This resource is intended for faculty, students, administrators, alumni, companies, and donors to find out more about the exciting research we do in the department.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    motivation
    opportunities
@@ -20,7 +19,7 @@ research we do in the department.
 To Report Issues
 -------------------
 
-* https://github.com/LoyolaChicagoCS/WebIssues/issues
+* https://github.com/LoyolaChicagoCS/research/issues
  
 Topics
 --------
