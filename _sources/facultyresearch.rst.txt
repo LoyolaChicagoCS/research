@@ -1,7 +1,9 @@
 Faculty Research
 =================
 
-The following is a list of faculty in alphabetical order with a succinct summary of their research areas and links to their individual web sites:
+The following is a list of faculty in alphabetical order with a succinct summary of their research areas and links to their individual web sites.
+
+.. note:: See the `Loyola eCommons <https://ecommons.luc.edu/cs_facpubs/>`__ for publications available via open access.
 
 - Mohammed Abuhamad, *artificial intelligence, deep learning, information security, mobile/IoT*, `abuhamad.cs.luc.edu <http://abuhamad.cs.luc.edu/>`_
 - Eric Chan-Tin, *network security, distributed systems, privacy, anonymity*, `chantin.cs.luc.edu/~chantin <https://chantin.cs.luc.edu/~chantin/>`_
