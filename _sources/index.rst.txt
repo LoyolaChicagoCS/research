@@ -9,13 +9,14 @@ This resource is intended for faculty, students, administrators, alumni, compani
    motivation
    opportunities
    facultyresearch
+   publications
    csrs
-   representativeprojects
    researchgroups
    foss
    funding
    assistantships
    acknowledgments
+   representativeprojects
 
 To Report Issues
 -------------------
